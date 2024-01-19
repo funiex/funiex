@@ -1,3 +1,4 @@
+![logo]( https://github.com/funiex/image/blob/master/vijay_kumar.png)
 <h1 align="center">Hay! 👋, I'm Vijay kumar</h1>
 <h3 align="center">An Enthusiast Competitive Programmer</h3>
 <img  align="right"  alt= "coding" width="400"  src ="https://img.freepik.com/premium-photo/man-working-desk-with-laptop-productive-work-flat-design-generative-ai_176697-2787.jpg?size=626&ext=jpg ">
